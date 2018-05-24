@@ -1,1 +1,3 @@
 # Breast Cancer Detection System (Machine Learning)
+Breast Cancer is widely spreading disease.About 1 in 8 U.S. women (about 12%) will develop invasive breast cancer over the course of her lifetime. In 2017, an estimated 252,710 new cases of invasive breast cancer are expected to be diagnosed in women in the              U.S., along with 63,410 new cases of non-invasive (in situ) breast cancer.This widely spreading disease needs to be tackled.
+The aim of this project is to demonstrate the process of training neural network for breast Cancer detection, it also involves the description of the method that we have developed to train the neural network to be able to identify breast cancer detection.Matlab Code is given above with our hypothesis. 
